@@ -1,0 +1,7 @@
+{"level":"info","time":"2022-04-05T17:39:40+08:00","message":"Zerolog and Lumberjack setup complete"}
+{"time":"2022-04-05T17:39:40+08:00","message":"\n   ____    __\n  / __/___/ /  ___\n / _// __/ _ \\/ _ \\\n/___/\\__/_//_/\\___/ v4.7.2\nHigh performance, minimalist Go web framework\nhttps://echo.labstack.com\n____________________________________O/_______\n                                    O\\"}
+{"time":"2022-04-05T17:39:40+08:00","message":"⇨ http server started on [::]:1323"}
+{"level":"info","time":"2022-04-05T17:39:48+08:00","message":"Validate request"}
+{"level":"info","time":"2022-04-05T17:39:48+08:00","message":"process request"}
+{"level":"info","time":"2022-04-05T17:39:48+08:00","message":"assemble processing result"}
+{"time":"2022-04-05T17:39:48+08:00","message":"{\"time\":\"2022-04-05T17:39:48.275681+08:00\",\"id\":\"8QgJtKT3IvwOvgTfmiYwk9RLqeFvpL2j\",\"remote_ip\":\"::1\",\"host\":\"localhost:1323\",\"method\":\"GET\",\"uri\":\"/\",\"user_agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36\",\"status\":200,\"error\":\"\",\"latency\":1196958,\"latency_human\":\"1.196958ms\",\"bytes_in\":0,\"bytes_out\":13}"}

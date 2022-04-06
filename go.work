@@ -1,0 +1,11 @@
+go 1.18
+
+use (
+	./basics
+	./echo
+	./echo-zerolog-context
+	./getting-started
+	./gin-gonic
+	./greetings
+	./zerolog
+)
