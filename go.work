@@ -4,6 +4,7 @@ use (
 	./basics
 	./echo
 	./echo-zerolog-context
+	./fuzz
 	./generics
 	./getting-started
 	./gin-gonic
