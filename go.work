@@ -8,6 +8,7 @@ use (
 	./generics
 	./getting-started
 	./gin-gonic
+	./gowiki
 	./greetings
 	./zerolog
 )
